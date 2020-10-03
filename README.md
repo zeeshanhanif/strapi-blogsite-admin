@@ -1,10 +1,13 @@
 # Strapi application
 
-A quick description of your strapi application
+Strapi is a flexible, open-source Headless CMS that gives developers the freedom to choose their favorite tools and frameworks while also allowing editors to easily manage and distribute their content.
+
+Strapi CMS can be deployed on any platform and gatsby site can connect to it and fetch data at build time
 
 Deployed URL of [Strapi Headless CMS](https://strapi-blogsite-admin.herokuapp.com/admin)
 
 [Gatsby Deployed Client URL on Netlify](https://strapi-gatsby-blogsite.netlify.app/)
+
 [Gatsby Client Code](https://github.com/zeeshanhanif/gatsby-blog-strapi-netlify)
 
 [Strapi Quick Start Guide](https://strapi.io/documentation/v3.x/getting-started/quick-start.html)
